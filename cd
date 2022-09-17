@@ -1,0 +1,23 @@
+[33mcommit 75ebeb5d2b807635db14896dcfae138dc9c6603e[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Leonardo <lpadron1029@gmail.com>
+Date:   Sat Sep 17 11:36:47 2022 -0500
+
+    Modificando el titulo
+
+[33mcommit eeea2e305fa94361ca12219e5edab71e3cfd342d[m[33m ([m[1;31mservidorlocal/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Leonardo <lpadron1029@gmail.com>
+Date:   Fri Sep 9 09:04:48 2022 -0500
+
+    Renombrando curso de Integración Contínua
+
+[33mcommit 254a4d092bcb8f2643a1fdfe05402b7981e0dec0[m
+Author: Leonardo <lpadron1029@gmail.com>
+Date:   Thu Sep 8 17:36:17 2022 -0500
+
+    Agregando gitignore
+
+[33mcommit 8eb4da9960b04afdd08e6a3f7fda5b61cee8aa48[m
+Author: Leonardo <lpadron1029@gmail.com>
+Date:   Thu Sep 8 16:55:38 2022 -0500
+
+    Creando archivo index.html con lista de Cursos
